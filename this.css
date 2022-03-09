@@ -1,0 +1,16 @@
+.header{
+	text-align: center;
+	font-family: monospace;
+	font-size: 160%;
+	padding: 10px;
+}
+.leftcolumn{
+	border: 3px solid blue;
+	border-radius: 5px;
+}
+.row{
+	background-color: lightblue;
+}
+body{
+	background-color: darkcyan;
+}
